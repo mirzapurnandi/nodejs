@@ -1,0 +1,17 @@
+{
+  "name": "project_latihan",
+  "version": "1.0.0",
+  "description": "belajar membuat web",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "mirza",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
